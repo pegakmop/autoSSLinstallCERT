@@ -3,9 +3,18 @@
 ```
 apt install curl && curl -L "https://raw.githubusercontent.com/pegakmop/autoSSLinstallCERT/refs/heads/main/autoSSLinstall10year90daysBYpegakmop.sh" -o ./autoSSLinstall10year90daysBYpegakmop.sh && bash ./autoSSLinstall10year90daysBYpegakmop.sh
 ```
+или
+```
+apt install curl && curl -L "https://raw.githubusercontent.com/pegakmop/autoSSLinstallCERT/refs/heads/main/autosslcert.sh" -o ./autosslcert.sh && bash ./autosslcert.sh
+```
 после первого запуска можно будет запускать напрямую командой: 
+```
 ./autoSSLinstall10year90daysBYpegakmop.sh
-
+```
+или
+```
+./autosslcert.sh
+```
 приятного использования;)
 
 upd. запрешено для изменения/копирования/продажи будь то инструкция какая либо, либо еще чего, только для бесплатного распространения с открытым исходным кодом, создано для облегчения и помощи начинающим линуксоводам
