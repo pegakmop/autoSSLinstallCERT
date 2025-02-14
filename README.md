@@ -1,5 +1,5 @@
 # auto SSL get CERT
-Получить сертификат самоподписной на 10 лет или Let’s Encrypt 90 дневные
+Получить создать/обновить сертификат самоподписной на 10 лет или Let’s Encrypt 90 дневные 
 ```
 apt install curl && curl -L "https://raw.githubusercontent.com/pegakmop/autoSSLinstallCERT/refs/heads/main/autoSSLinstall10year90daysBYpegakmop.sh" -o ./autoSSLinstall10year90daysBYpegakmop.sh && bash ./autoSSLinstall10year90daysBYpegakmop.sh
 ```
